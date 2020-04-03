@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2267520-6b7f-47d3-b0cd-0157f838536e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1a0lSxUKZ8HstuqgcsEbU5944hH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Admin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2267520-6b7f-47d3-b0cd-0157f838536e" name="Default Changelist" comment="" />
+      <created>1585880395203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585880395203</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585937831813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="420" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585937831813" />
+    <state x="746" y="263" key="FileChooserDialogImpl" timestamp="1585938335551">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="746" y="263" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585938335551" />
+    <state x="792" y="436" key="Github.CreateGistDialog" timestamp="1585937591884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="792" y="436" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585937591884" />
+    <state x="496" y="182" key="SettingsEditor" timestamp="1585938070866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="496" y="182" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585938070866" />
+    <state x="796" y="312" width="960" height="412" key="svn.repositoryBrowser" timestamp="1585938357843">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="796" y="312" width="960" height="412" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1585938357843" />
+  </component>
+</project>
